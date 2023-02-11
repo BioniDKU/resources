@@ -79,10 +79,10 @@
 	</SkinOptionsW7>
 	<EnableStartButton value="0"/>
 	<StartButtonType value="CustomButton"/>
-	<StartButtonPath value="%USERPROFILE%\Downloads\windows_8_aero_start_orb_by_fried_tomato_d7m994t.png"/>
+	<StartButtonPath value=""/>
 	<CustomTaskbar value="1"/>
 	<TaskbarLook value="Glass"/>
-	<TaskbarOpacity value="10"/>
+	<TaskbarOpacity value="80"/>
 	<TaskbarColor value="0"/>
 	<SkipMetro value="1"/>
 	<OpenMouseMonitor value="1"/>
