@@ -82,7 +82,7 @@
 	<StartButtonPath value=""/>
 	<CustomTaskbar value="1"/>
 	<TaskbarLook value="Glass"/>
-	<TaskbarOpacity value="30"/>
+	<TaskbarOpacity value="100"/>
 	<TaskbarColor value="0"/>
 	<SkipMetro value="1"/>
 	<OpenMouseMonitor value="1"/>
